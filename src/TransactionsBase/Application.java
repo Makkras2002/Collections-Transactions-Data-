@@ -11,7 +11,7 @@ public class Application {
         DatabaseOfTransactions newBase = new DatabaseOfTransactions();
         while(true){
             System.out.println("_____________________MENU______________________");
-            System.out.println("1.Add elem into the base.");
+            System.out.println("1.Add element into the base.");
             System.out.println("2.Show what the base contains.");
             System.out.println("3.Show transactions in a specific time period.");
             System.out.println("4.Exit.");
